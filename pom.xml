@@ -14,20 +14,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-<!--    <build>-->
-<!--        <outputDirectory>binary</outputDirectory>-->
-<!--        <finalName>GitHub_Practice</finalName>-->
-<!--        <plugins>-->
-<!--            <plugin>-->
-<!--                <groupId>org.apache.maven.plugins</groupId>-->
-<!--                <artifactId>maven-assembly-plugin</artifactId>-->
-<!--                <version>3.5.0</version>-->
-<!--                <configuration>-->
-
-<!--                </configuration>-->
-<!--            </plugin>-->
-<!--        </plugins>-->
-<!--    </build>-->
 
     <dependencies>
         <dependency>
